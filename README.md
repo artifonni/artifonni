@@ -85,11 +85,11 @@ gantt
     section Concluído
     Lógica Orientada a Objetos :done, cl1, 2026-02, 2026-03
     Bancos de Dados com SQLite :done, cl2, 2026-04, 2026-05
+    Spring Boot & Injeção de Dep. :active, p3, 2026-03, 2026-06
     
     section Em Progresso
-    Desenvolvimento Web com Django :active, p1, 2026-05, 2026-08
-    Estruturas de Dados com Python :active, p2, 2026-05, 2026-08
-    Spring Boot & Injeção de Dep. :active, p3, 2026-05, 2026-08
+    Desenvolvimento Web com Django :active, p1, 2026-06, 2026-09
+    Estruturas de Dados com Python :active, p2, 2026-10, 2026-12
     
     section Próximos Passos
     Testes com PyTest e JUnit :f1, 2026-08, 2026-10
